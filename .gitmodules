@@ -1,0 +1,4 @@
+[submodule "OCA/bank-statement-import"]
+	path = OCA/bank-statement-import
+	url = git@github.com:OCA/bank-statement-import.git
+	branch = 14.0
