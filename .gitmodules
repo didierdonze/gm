@@ -12,3 +12,8 @@
 	path = OCA/multi-company
 	url = git@github.com:OCA/multi-company.git
 	branch = 14.0
+
+[submodule "akretion/sale-configurator"]
+	path = akretion/sale-configurator
+	url = git@github.com:akretion/sale-configurator.git
+	branch = 14.0
